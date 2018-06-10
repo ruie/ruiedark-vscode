@@ -1,5 +1,5 @@
 # Ruie Dark Theme
-![Preview](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
+![Preview](https://raw.githubusercontent.com/ruiehq/ruiedark-vscode/master/images/preview.png)
 
 ![Ruie Dark Theme Version](https://vsmarketplacebadge.apphb.com/version-short/RuieHQ.ruie-dark.svg) ![Ruie Dark Theme Rating](https://vsmarketplacebadge.apphb.com/rating-short/RuieHQ.ruie-dark.svg)
 
