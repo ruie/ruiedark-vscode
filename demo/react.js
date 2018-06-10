@@ -10,7 +10,5 @@ class Wow extends Component {
   }
 }
 
-testldf.
 let number = 100;
-
 export default Wow;

@@ -14,4 +14,4 @@ function ruie() {
 
 const ruie = () => { };
 
-console.log(joe, wes);
+console.log('console log', ruie());
