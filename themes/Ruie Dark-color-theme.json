@@ -276,12 +276,6 @@
 	},
 	"tokenColors": [
 		{
-			"settings": {
-				"foreground": "#eeffffff",
-				"background": "#212121ff"
-			}
-		},
-		{
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
@@ -307,7 +301,7 @@
 			"name": "Invalid",
 			"scope": "invalid, invalid.illegal, invalid.broken",
 			"settings": {
-				"background": "#FF5370",
+				// "background": "#FF5370",
 				"foreground": "#ffffff"
 			}
 		},
@@ -315,7 +309,7 @@
 			"name": "Unimplemented",
 			"scope": "invalid.unimplemented",
 			"settings": {
-				"background": "#C3E88D",
+				// "background": "#C3E88D",
 				"foreground": "#ffffff"
 			}
 		},
@@ -323,7 +317,7 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#C792EA",
+				// "background": "#C792EA",
 				"foreground": "#ffffff"
 			}
 		},
@@ -373,7 +367,7 @@
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": "string, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
 			"settings": {
-				"fontStyle": "normal",
+				// "fontStyle": "normal",
 				"foreground": "#C3E88D"
 			}
 		},
@@ -640,7 +634,7 @@
 			"name": "Markup - Strike",
 			"scope": "markup.strike",
 			"settings": {
-				"fontStyle": "strike",
+				// "fontStyle": "strike",
 				"foreground": "#C17E70"
 			}
 		},
@@ -679,7 +673,7 @@
 			"name": "Markdown - Raw Block Fenced",
 			"scope": "markup.raw.block.fenced.markdown",
 			"settings": {
-				"background": "#00000050",
+				// "background": "#00000050",
 				"foreground": "#eeffffff"
 			}
 		},
@@ -687,7 +681,7 @@
 			"name": "Markdown - Fenced Bode Block",
 			"scope": "punctuation.definition.fenced.markdown, variable.language.fenced.markdown",
 			"settings": {
-				"background": "#00000050",
+				// "background": "#00000050",
 				"foreground": "#65737e"
 			}
 		},
@@ -703,7 +697,7 @@
 			"name": "Markdown - Separator",
 			"scope": "meta.separator",
 			"settings": {
-				"background": "#00000050",
+				// "background": "#00000050",
 				"fontStyle": "bold",
 				"foreground": "#65737e"
 			}
@@ -712,7 +706,7 @@
 			"name": "Markup - Table",
 			"scope": "markup.table",
 			"settings": {
-				"background": "#FF53701a",
+				// "background": "#FF53701a",
 				"foreground": "#FF5370"
 			}
 		},
@@ -720,7 +714,7 @@
 			"name": "AceJump Label - Blue",
 			"scope": "acejump.label.blue",
 			"settings": {
-				"background": "#82AAFF",
+				// "background": "#82AAFF",
 				"foreground": "#ffffff"
 			}
 		},
@@ -728,7 +722,7 @@
 			"name": "AceJump Label - Green",
 			"scope": "acejump.label.green",
 			"settings": {
-				"background": "#C3E88D",
+				// "background": "#C3E88D",
 				"foreground": "#ffffff"
 			}
 		},
@@ -736,7 +730,7 @@
 			"name": "AceJump Label - Orange",
 			"scope": "acejump.label.orange",
 			"settings": {
-				"background": "#F78C6C",
+				// "background": "#F78C6C",
 				"foreground": "#ffffff"
 			}
 		},
@@ -744,7 +738,7 @@
 			"name": "AceJump Label - Purple",
 			"scope": "acejump.label.purple",
 			"settings": {
-				"background": "#C792EA",
+				// "background": "#C792EA",
 				"foreground": "#ffffff"
 			}
 		},
@@ -773,7 +767,7 @@
 			"name": "SublimeLinter Annotation",
 			"scope": "sublimelinter.annotations",
 			"settings": {
-				"background": "#C17E70"
+				// "background": "#C17E70"
 			}
 		},
 		{
