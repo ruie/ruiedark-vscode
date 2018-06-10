@@ -218,9 +218,9 @@
 		"statusBar.border": "#383838",
 		// Title Bar Colors (macOS)
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_title-bar-colors-macos
-		"titleBar.activeBackground": "#242B2E",
+		"titleBar.activeBackground": "#212121",
 		"titleBar.activeForeground": "#7F7F7F",
-		"titleBar.inactiveBackground": "#242B2E",
+		"titleBar.inactiveBackground": "#212121",
 		"titleBar.inactiveForeground": "#7F7F7F",
 		"titleBar.border": "#383838",
 		// Notification Dialog Colors
@@ -246,7 +246,7 @@
 		// https: //code.visualstudio.com/docs/getstarted/theme-color-reference#_integrated-terminal-colors
 		"terminal.border": "#383838",
 		"terminal.ansiBlack": "#000000",
-		"terminal.ansiRed": "#ff5370",
+		"terminal.ansiRed": "#ef5350",
 		"terminal.ansiGreen": "#c3e88d",
 		"terminal.ansiYellow": "#ffcb6b",
 		"terminal.ansiBlue": "#82aaff",
@@ -254,7 +254,7 @@
 		"terminal.ansiCyan": "#2892d7",
 		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiBrightBlack": "#545454",
-		"terminal.ansiBrightRed": "#ff5370",
+		"terminal.ansiBrightRed": "#ef5350",
 		"terminal.ansiBrightGreen": "#c3e88d",
 		"terminal.ansiBrightYellow": "#ffcb6b",
 		"terminal.ansiBrightBlue": "#82aaff",
