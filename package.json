@@ -1,0 +1,23 @@
+{
+    "name": "ruie-dark",
+    "displayName": "Ruie Dark",
+    "description": "🔥 Dark theme by Ruie Dela Peña inspired by Material theme",
+    "version": "0.0.2",
+    "publisher": "RuieHQ",
+    "author": "Ruie Dela Peña [@RuieHQ]",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ruie Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ruie Dark-color-theme.json"
+            }
+        ]
+    }
+}
