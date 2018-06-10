@@ -1,7 +1,7 @@
 # Ruie Dark Theme
-![Preview](https://raw.githubusercontent.com/ruiehq/ruiedark-vscode/master/images/preview.png)
-
 ![Ruie Dark Theme Version](https://vsmarketplacebadge.apphb.com/version-short/RuieHQ.ruie-dark.svg) ![Ruie Dark Theme Rating](https://vsmarketplacebadge.apphb.com/rating-short/RuieHQ.ruie-dark.svg)
+
+![Preview](https://raw.githubusercontent.com/ruiehq/ruiedark-vscode/master/images/preview.png)
 
 All credit goes to the author of my favourite [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) for developing this theme. This is just a modification that is utilizing Visual Studio Code theming features.
 
